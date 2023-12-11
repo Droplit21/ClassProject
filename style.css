@@ -1,1 +1,39 @@
+body{
+    background: burlywood
+}
 
+#mainbody{
+    margin-left: 40%;
+    margin-top: 2px;
+    background: linear-gradient(#090979, #28d61b, #00d4ff, #020024, #050446);
+    width: 230px;
+    height: 300px;
+    border:solid 8px;
+    border-radius: 10px
+}
+#screen{
+    width: 85%;
+    height: 41px;
+
+}
+.but{
+    width: 200px;
+    height: 300px;
+    margin-left: 1px;
+}
+button{
+    width: 30px;
+    height: 35px;
+    margin-top: 10px;
+    background: white;
+    margin-left: 10px;
+    border:solid yellow;
+    border-radius: 20px;
+    font-size: 10px;
+    font-weight: 100;
+    font-family:'Times New Roman', Times, serif;
+}
+
+button:hover{
+    cursor: pointer;
+}
